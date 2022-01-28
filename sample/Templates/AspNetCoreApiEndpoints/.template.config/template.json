@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Steve Ardalis Smith, Joseph Izang",
+  "description": "Standard Web Api template with ApiEndpoints",
+  "classifications": [ "Web" ],
+  "identity": "Ardalis.ApiEndpoints.WebApi",
+  "name": "ASP.NET Core Web Api",
+  "shortName": "webapiendpoint", // <- will be used to create the project.
+  "sourceName": "My WebApi with ApiEndpoints", //<- this will be replaced with name given by you while creating project
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
